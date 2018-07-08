@@ -15,8 +15,9 @@ public class AssertionExample implements Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//assertionInIf(3);
-		
+		System.out.println("test Git---1");
 		assertionInSwitch("test");
+		System.out.println("test Git---2");
 	}
 	
 	private static void assertionInIf(int i) {
